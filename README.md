@@ -11,4 +11,4 @@ Repo contains sample projects of Identity Server 4 with Entity Framework Core.
 + Adding various Clients and implement all flows
 
 
-Reference taken from Identity Server 4 official repo, docs and [damianbod article](https://damienbod.com/2017/04/14/asp-net-core-identityserver4-resource-owner-password-flow-with-custom-userrepository/).
+Reference taken from Identity Server 4 official repo, docs and [damienbod article](https://damienbod.com/2017/04/14/asp-net-core-identityserver4-resource-owner-password-flow-with-custom-userrepository/).
